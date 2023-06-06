@@ -1,0 +1,6 @@
+PyPDF2
+langchain
+faiss-cpu
+numpy
+openai
+PyYAML

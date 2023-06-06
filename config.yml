@@ -1,0 +1,5 @@
+openai:
+  api_key: "<put here your openai api key>"
+
+knowledge_base:
+  file_path: "<put here the pdf file path>"
