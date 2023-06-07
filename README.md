@@ -1,4 +1,4 @@
-# Knowledge Base Chatbot
+# GPT Knowledge Base Chatbot
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,7 +27,7 @@ In the future this application will provide multiple files/folders support.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/1andre-santos1/knowledge-base-chatbot.git
+   git clone https://github.com/1andre-santos1/gpt-knowledge-base-chatbot.git
    cd knowledge-base-chatbot
    ```
 
