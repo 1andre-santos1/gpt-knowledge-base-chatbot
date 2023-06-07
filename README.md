@@ -6,6 +6,14 @@
 
 This Python application is designed to process knowledge base files and provide question-answering capabilities based on the content of the respective files. It uses machine learning techniques and the OpenAI API to extract text, create embeddings, and find relevant answers to user queries within the document.
 
+`Below is an example using the Harry Potter - Chamber Of Secrets as the knowledge base. Keep in mind that the Open AI model used is the most basic one, so the answers are not always accurate.`
+
+![Harry Potter example](./documentation/images/harry_potter_example.jpg)
+
+You can use this application to build your own knowledge base chatbot. Simply replace the PDF file with your own and you're good to go!
+
+In the future this application will provide multiple files/folders support.
+
 ## Features
 
 - Extracts text from PDF files and splits it into manageable chunks.

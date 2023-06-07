@@ -16,6 +16,9 @@ def load_config(config_file_path="config.yml"):
 
 # This function processes the PDF file and returns the docsearch and chain
 def process_file(file_path):
+
+    print(f'Processing knowledge base: {file_path}') 
+
     # Set up your vector store
     reader = PdfReader(file_path)
 
